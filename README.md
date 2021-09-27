@@ -52,7 +52,7 @@ I hope you got the app running at **localhost:8000/127.0.0.1:8000.**
 
 ---------------
 Next, we need to set up our frontend app. I've developed this app with the latest version of Angular so, I'd recommend you to please go with the same version.
-Download the **todoUI** folder from the project directory and let's run it. 
+Download the **todoUI/todo** folder from the project directory and let's run it. 
 
 >Note: As the node_module directory is not available, running the app will throw errors. So, in order to overcome this, we have to run the **package.json** file which contains all the modules, dependencies required for this Angular app.
 
@@ -71,6 +71,8 @@ And you will see this page while opening the URL.
 
 That's it!
 
+## Screenshots of the app screens
+Screenshots are available inside the **screenshots** directory.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
